@@ -1,0 +1,14 @@
+#video{
+width:100%;
+height:500px;
+border:none;
+}
+.School_MainDiv{
+border:1px solid lightgrey;
+}
+.School_MainDiv img{
+    width:100%;
+}
+.School_MainDiv h5, .School_MainDiv p{
+margin:20px;
+}
